@@ -1,2 +1,4 @@
 # geogebra
-saved geogebra scripts
+Saved Geogebra scripts
+
+A place for saving Geogebra ggb files...
