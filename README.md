@@ -1,7 +1,7 @@
 # geogebra
-Saved Geogebra scripts
+Saved Geogebra scripts (Geogebra is available from https://www.geogebra.org/)
 
-A place for saving Geogebra ggb scripts...
+This is a place for saving my Geogebra ggb scripts...
 
 1) SIR_model.ggb - Susceptible-Infected-Recovered model using ordinary differential equations<br/>
 2) SIR_modified.ggb - Same as above except some recovered individuals lose immunity<br/>
