@@ -11,3 +11,9 @@ This is a place for saving my Geogebra ggb scripts...
     c) hyperbolic functions: (with *k*=1 or -1) sn(*u*,1)=tanh(*u*), cn(*u*,1)=dn(*u*,1)=sech(*u*)
     d) values of *k* between 0 and 1 (and complex values other than 0, 1 or -1) give non-elementary functions of argument *u*
 4) natural exponential growth.ggb - an simple illustration of Euler's limit definition of the constant *e*.  (The accompanying png file shows the annual and monthly compounding along with the natural exponential.)
+5) Fibonacci.ggb - graphically demonstrate use of the Binet Formula for the Fibonacci numbers (defined using the relations F(0)=0, F(1)=1 and F(n+2)=F(n+1)+F(n)).  *Note:* The analytic continuation is not a function in the sense of one output for each input - the principal branch is used here to make the output unique.  The math is tricky, but the pictures are beautiful.
+    a) The JFIF/JPEG image (Fibonacci.jpg) shows the the result if the inputs are the real numbers from -5 to 5.  The geogebra file (Fibonacci.ggb) uses these parameters.
+    b) To play with the simulation, the four parameters you can play with are a, b, f and g.  The real numbers a and b control the range of the hidden parameter t: t ranges over the interval \[a,b\].  The parameters f and g yield the input curve (x,y)=(f(t),g(t)).  Treat this as a complex variable z=x+yi, plotted in red.  The best way to work this is to create functions fn and gn of t and then set f=fn and g=gn.  I've provided (f1,g1) from the x-axis and (f2,g2) the unit circle.
+    c) The output in blue is the curve (u,v)=binet(z) where u is the real part, v is the imaginary part and binet(z) are complex outputs of the binet function (i.e. the principal branch...)
+
+Enjoy!
