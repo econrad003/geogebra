@@ -15,5 +15,10 @@ This is a place for saving my Geogebra ggb scripts...
     a) The JFIF/JPEG image (Fibonacci.jpg) shows the the result if the inputs are the real numbers from -5 to 5.  The geogebra file (Fibonacci.ggb) uses these parameters.
     b) To play with the simulation, the four parameters you can play with are a, b, f and g.  The real numbers a and b control the range of the hidden parameter t: t ranges over the interval \[a,b\].  The parameters f and g yield the input curve (x,y)=(f(t),g(t)).  Treat this as a complex variable z=x+yi, plotted in red.  The best way to work this is to create functions fn and gn of t and then set f=fn and g=gn.  I've provided (f1,g1) from the x-axis and (f2,g2) the unit circle.
     c) The output in blue is the curve (u,v)=binet(z) where u is the real part, v is the imaginary part and binet(z) are complex outputs of the binet function (i.e. the principal branch...)
+6) Four of five classic triangle construction problems:
+   a) triangle-SSS.ggb
+   b) triangle-SAS.ggb
+   c) triangle-AAS.ggb
+   d) triangle-ASA.ggb
 
 Enjoy!
