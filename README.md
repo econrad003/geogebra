@@ -22,5 +22,6 @@ This is a place for saving my Geogebra ggb scripts...
    d) triangle-ASA.ggb
    e) triangle-beastOfBurden.ggb - (angle-side-side) sometimes having two noncongruent solutions
 7) triangle-SAS-tan.ggb -  Revisiting SAS using the Law of Tangents to get the angles (instead of using the unknown side with the Law of Cosines). This demo is tricky because of the ways Geogebra handles angles. Note that instead of entering sides b and c, you enter b and the difference c-b to insure c is larger than b.  The Law of Tangents approach was more common in the days before scientific calculators...
+8) lawOfSines.ggb - the common textbook argument for the Law of Sines.  This involves writing an altitude in two ways.  (This argument does not make the beautiful and important connection with the circumcircle.)
 
 Enjoy!
