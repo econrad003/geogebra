@@ -23,5 +23,10 @@ This is a place for saving my Geogebra ggb scripts...
    e) triangle-beastOfBurden.ggb - (angle-side-side) sometimes having two noncongruent solutions
 7) triangle-SAS-tan.ggb -  Revisiting SAS using the Law of Tangents to get the angles (instead of using the unknown side with the Law of Cosines). This demo is tricky because of the ways Geogebra handles angles. Note that instead of entering sides b and c, you enter b and the difference c-b to insure c is larger than b.  The Law of Tangents approach was more common in the days before scientific calculators...
 8) lawOfSines.ggb - the common textbook argument for the Law of Sines.  This involves writing an altitude in two ways.  (This argument does not make the beautiful and important connection with the circumcircle.)
+9) EllipticalSolarSystem.ggb - the Ptolemaic system uses epicycles to show how planets move in circular orbits about the Earth.  Kepler, taking a step beyond that formulated three laws of planetary motion, leading to Newton's gravitational model of the solar system.  The model here is simpler, but it does illustrate the Ptolemaiv epicycles.  Here we use three laws for our two-planet solar system:
+   E1) The orbits of the planets (A and B) are elliptical with the Sun at one focus.  (This is the same as Kepler's First Law.)
+   E2) The angular speed of a planet relative to the Sun is constant.  (This is different from Kepler's Second Law, which says that the area of a sector swept by a planet in a given time is constant -- so in Kepler's system the planet's angular speed is slowest at aphelion and fastest at perihelion.)
+   E3) The outer planet's orbital period is longer than that of the inner planet.  (This is implied by Kepler's Third Law, but considerably weaker.)
+   Watch as the point P revolves about the origin.  It gives a sense of how Planet B moves in Planet A's night sky...
 
 Enjoy!
